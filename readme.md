@@ -1,9 +1,19 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# Yu-Gi-Oh! - Jogo de Cartas
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Projeto simples inspirado no universo Yu-Gi-Oh!, desenvolvido em JavaScript. Este projeto permite simular interações básicas de um jogo de cartas, com funcionalidades para visualizar cartas e realizar jogadas.
 
-conceitos abordados:
+## Descrição
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+Este projeto é uma implementação básica de um jogo de cartas do universo Yu-Gi-Oh!. Ele permite que usuários vejam cartas, suas informações, e joguem de forma simples, focado em aprendizado e prática de JavaScript e lógica de jogos.
+
+## Funcionalidades
+
+- Visualização das cartas disponíveis
+- Simulação de jogadas básicas
+- Gerenciamento simples de decks e cartas em campo
+
+## Tecnologias Utilizadas
+
+- JavaScript (Vanilla)
+- HTML5
+- CSS3
